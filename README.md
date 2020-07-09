@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Cecily 👩🏾‍💻 👋🏾
+
+I'm a librarian who has dabbled in technology for more than a decade.
+
+- 🔭 I’m currently working on cleaning and normalizing data from my library's collection records
+
+- 😄 Pronouns: she/her/hers/they/them/theirs
 
 <!--
 **skeskali/skeskali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
