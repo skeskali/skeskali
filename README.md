@@ -9,7 +9,7 @@ I'm a librarian who has dabbled in technology for more than a decade.
 - 😄 Pronouns: she/her/hers/they/them/theirs
 
 Find me online: 
-- [Cecily.info](https://cecily.info) - my infrequently updated blog 📓
+- [Blog](https://cecily.info) - my infrequently updated blog 📓
 - [Twitter](https://twitter.com/skeskali) - Twitter 🐦
 - [Instagram](https://instagram.com/skeskali) - Instagram 📷
 
