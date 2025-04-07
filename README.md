@@ -11,8 +11,6 @@ I'm a librarian who has dabbled in technology for more than a decade.
 📫 How to reach me:
  
 - [Blog](https://cecily.info) - my infrequently updated blog 📓
-- [Twitter](https://twitter.com/skeskali) - Twitter 🐦
-- [Instagram](https://instagram.com/skeskali) - Instagram 📷
 
 <!--
 **skeskali/skeskali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
