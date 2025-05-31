@@ -11,6 +11,7 @@ I'm a librarian who has dabbled in technology for more than a decade.
 📫 How to reach me:
  
 - [Blog](https://cecily.info) - my infrequently updated blog 📓
+- [Bluesky](https://bsky.app/profile/skeskali.ca) - Bluesky 🦋
 
 <!--
 **skeskali/skeskali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
