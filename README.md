@@ -10,7 +10,7 @@ I'm a librarian who has dabbled in technology for more than a decade.
 
 📫 How to reach me:
  
-- [Blog](https://cecily.info) - my infrequently updated blog 📓
+- [Blog](https://cecily.info) - my infrequently updated photo blog 📷
 - [Bluesky](https://bsky.app/profile/skeskali.ca) - Bluesky 🦋
 
 <!--
